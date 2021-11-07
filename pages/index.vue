@@ -6,7 +6,7 @@
         BB Test Page Part 1
       </h1>
       <h2 class='text-center'>
-        Create simple, beautiful, and elegant website.
+        Attempting to create simple, beautiful, and elegant website.
       </h2>
       
     </div>
